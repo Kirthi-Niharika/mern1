@@ -3,3 +3,24 @@ h1  {
     font-family: Verdana;
     text-align: center;
 }
+a{
+    text-decoration-style: none;
+}
+a:visited
+{
+    color:aqua;
+}
+
+.about-us
+{
+    color:grey;
+}
+#quote
+{
+    font-weight: bolder;
+}
+h2:hover
+{
+    color:aquamarine;
+}
+
